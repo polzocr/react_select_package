@@ -1,7 +1,7 @@
 {
   "name": "@polzocr/react-selectator",
   "main": "src/select/index.jsx",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": false,
   "repository": "https://github.com/polzocr/react_select_package",
   "dependencies": {
