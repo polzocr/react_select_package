@@ -1,7 +1,7 @@
 {
   "name": "@polzocr/react-selectator",
-  "main":"src/select/index.jsx",
-  "version": "0.2.0",
+  "main": "src/select/index.jsx",
+  "version": "0.3.0",
   "private": false,
   "repository": "https://github.com/polzocr/react_select_package",
   "dependencies": {
@@ -49,6 +49,6 @@
     "eslint-plugin-react-hooks": "^4.6.0"
   },
   "publishConfig": {
-   "@polzocr:registry": "https://npm.pkg.github.com"
- }
+    "@polzocr:registry": "https://npm.pkg.github.com"
+  }
 }
