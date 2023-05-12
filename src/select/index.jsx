@@ -4,14 +4,12 @@ import PropTypes from 'prop-types'
 
 export default function Selection({ title, name, elements, onChange }) {
     return (
-        <>
-            <select name={name} onChange={onChange} aria-label={name} className="select-plug" data-testid="test-select">
-                <option>{title}</option>
-                {elements.map((element, index) => (
-                    <option value={element} key={`${element}-${index}`}>{element}</option>
-                ))}
-            </select>
-        </>
+        <select name={name} onChange={onChange} aria-label={name} className="select-plug" data-testid="test-select">
+            <option>{title}</option>
+            {elements.map((element, index) => (
+                <option value={element} key={`${element}-${index}`}>{element}</option>
+            ))}
+        </select>
     )
 }
 
