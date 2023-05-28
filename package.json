@@ -1,6 +1,6 @@
 {
   "name": "@polzocr/react-selectator",
-  "main": "build/index.html",
+  "main": "index.jsx",
   "version": "0.10.0",
   "private": false,
   "repository": {
