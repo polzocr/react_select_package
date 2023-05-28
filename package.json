@@ -1,6 +1,6 @@
 {
   "name": "@polzocr/react-selectator",
-  "main": "src/select/index.jsx",
+  "main": "build/index.html",
   "version": "0.5.0",
   "private": false,
   "repository": {
@@ -38,5 +38,17 @@
   },
   "publishConfig": {
     "@polzocr:registry": "https://npm.pkg.github.com"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
