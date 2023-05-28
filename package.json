@@ -1,6 +1,6 @@
 {
   "name": "@polzocr/react-selectator",
-  "main": "public/index.html",
+  "main": "build/static/main.d2b8df6c.js.map",
   "version": "0.12.0",
   "private": false,
   "repository": {
