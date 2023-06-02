@@ -1,11 +1,11 @@
 {
   "name": "@polzocr/react-selectator",
   "main": "build/main.d2b8df6c.js",
-  // "module": "dist/index.js",
-  // "files": [
-  //   "dist",
-  //   "README.md"
-  // ],
+  "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "version": "0.16.0",
   "private": false,
   "repository": {
