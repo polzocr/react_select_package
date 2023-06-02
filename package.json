@@ -6,7 +6,7 @@
     "dist",
     "README.md"
   ],
-  "version": "0.14.0",
+  "version": "0.15.0",
   "private": false,
   "repository": {
     "type": "git",
@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "prop-types": "^15.8.1"
-    
   },
   "scripts": {
     "start": "react-scripts start",
