@@ -1,6 +1,6 @@
 {
   "name": "@polzocr/react-selectator",
-  "main": "build/js/main.d2b8df6c.js",
+  "main": "build/static/js/main.d2b8df6c.js",
   "module": "dist/index.js",
   "files": [
     "dist",
