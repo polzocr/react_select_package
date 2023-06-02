@@ -1,5 +1,6 @@
 import './index.css'
 import PropTypes from 'prop-types'
+import React from 'react'
 
 
 export default function Selection({ title, name, elements, onChange }) {

@@ -1,6 +1,7 @@
 /* global describe, it, jest, expect, React */
 import { render, screen, fireEvent } from '@testing-library/react';
 import Selection from './index';
+import React from 'react';
 
 describe('testing Selection component', () => {
     it('should render default value', () => {
