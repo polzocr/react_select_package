@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* global describe, it, jest, expect */
 import { render, screen, fireEvent } from '@testing-library/react'
 import React from 'react'
