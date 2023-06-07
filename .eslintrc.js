@@ -25,5 +25,7 @@ module.exports = {
 		'react/jsx-indent-props': ['error', 'tab'],
 		'react/jsx-no-bind': 'off',
 		'react/jsx-props-no-spreading': 'off',
+		'react/no-array-index-key': 'off',
+		'react/require-default-props': 'off'
 	},
 }
